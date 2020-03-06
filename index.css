@@ -1,0 +1,66 @@
+.demo-card-wide.mdl-card {
+width: 100%;
+}
+
+.demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 1000px;
+    background: url('https://dengekionline.com/elem/000/001/242/1242895/yagakimi_cover_cs1w1_1280x1821.jpg') center / cover;
+}
+
+.demo-card-wide > .mdl-card__menu {
+    color: #fff;
+}
+
+.material-icons {
+    font-size: 30px;
+    margin: 20px;
+}
+
+.title {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.mdl-layout__header {
+    height: 7%;
+    width: 100%;
+}
+
+.mdl-layout__tab {
+    height: 60px;
+    width: 60px;
+}
+
+.mdl-chip { 
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 60px;
+    width: 120px;
+    background-color: rgb(63,81,181);
+    color: white;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 30px;
+}
+
+.mdl-chip__text {
+    font-size: 20px;
+}
+
+.popular {
+    margin-top: 800px;
+    font-size: 60px;
+}
+
+.bloom {
+    font-size: 30px;
+    margin-top: 900px;
+    margin-left: inherit;
+    
+}
+
+.manga {
+   margin: 12px;
+    margin-top: 50px;
+}
